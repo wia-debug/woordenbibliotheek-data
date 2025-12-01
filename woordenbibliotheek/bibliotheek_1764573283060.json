@@ -1,0 +1,25 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/aap.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/aap.webm"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/beer.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/beer.webm"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/koe.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/koe.webm"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/vlieg.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/vlieg.webm"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/slang.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/slang.webm"
+    }
+  ]
+}
