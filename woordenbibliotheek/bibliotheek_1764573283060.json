@@ -2,20 +2,20 @@
   "versie": 1,
   "items": [
     {
-      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/aap.png",
-      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/aap.webm"
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/pauw.png",
+      "audio": "https://github.com/wia-debug/woordenbibliotheek-data/raw/refs/heads/main/woordenbibliotheek/pauw.webm"
     },
     {
-      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/beer.png",
-      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/beer.webm"
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/poes.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/poes.webm"
     },
     {
-      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/koe.png",
-      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/koe.webm"
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/boom.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/boom.webm"
     },
     {
-      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/vlieg.png",
-      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/vlieg.webm"
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/boek.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/boek.webm"
     },
     {
       "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/slang.png",
