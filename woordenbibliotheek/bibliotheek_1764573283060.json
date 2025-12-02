@@ -16,10 +16,6 @@
     {
       "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/boek.png",
       "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/boek.webm"
-    },
-    {
-      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/slang.png",
-      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/slang.webm"
     }
   ]
 }
