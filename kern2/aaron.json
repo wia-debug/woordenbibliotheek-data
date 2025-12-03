@@ -1,0 +1,10 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/kern2/aaron.jpeg",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/kern2/aaron.webm",
+      "naam": "aaron"
+    }
+  ]
+}
