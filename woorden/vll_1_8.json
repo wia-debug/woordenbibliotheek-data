@@ -1,0 +1,15 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/kip_1764768477815.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/kip_1764768477815.mp3",
+      "naam": "kip_1764768477815"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/maan.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/maan.webm",
+      "naam": "maan"
+    }
+  ]
+}
