@@ -1,0 +1,15 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/vis.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/vis.webm",
+      "naam": "vis"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/sik2.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/sik2.webm",
+      "naam": "sik2"
+    }
+  ]
+}
