@@ -1,0 +1,50 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/Aaronk.jpeg",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/Aaronk.webm",
+      "naam": "Aaronk"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/T1.jpeg",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/T1.webm",
+      "naam": "T1"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/aap.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/aap.webm",
+      "naam": "aap"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/aap_1764768477815.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/aap_1764768477815.mp3",
+      "naam": "aap_1764768477815"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/doek_1764767438054.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/doek_1764767438054.mp3",
+      "naam": "doek_1764767438054"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/iets.jpeg",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/ietsanders.webm",
+      "naam": "iets"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/kip_1764768477815.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/kip_1764768477815.mp3",
+      "naam": "kip_1764768477815"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/maan.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/maan.webm",
+      "naam": "maan"
+    },
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/pan_1764767438054.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/pan_1764767438054.mp3",
+      "naam": "pan_1764767438054"
+    }
+  ]
+}
