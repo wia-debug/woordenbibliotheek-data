@@ -1,0 +1,20 @@
+[
+  {
+    "naam": "beer",
+    "linkafbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/hond.png",
+    "linkgeluid": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/doekje.webm",
+    "showType": "geluid"
+  },
+  {
+    "naam": "klok",
+    "linkafbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/klokkijken2.jpg",
+    "linkgeluid": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/doekje.webm",
+    "showType": "geluid"
+  },
+  {
+    "naam": "test",
+    "linkafbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/iets",
+    "linkgeluid": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/kip_1764768477815.mp3",
+    "showType": "geluid"
+  }
+]
