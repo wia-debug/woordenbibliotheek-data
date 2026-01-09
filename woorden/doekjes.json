@@ -1,0 +1,14 @@
+[
+  {
+    "naam": "beer",
+    "linkafbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/hond.png",
+    "linkgeluid": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/ietsanders.webm",
+    "showType": "geluid"
+  },
+  {
+    "naam": "doek",
+    "linkafbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/doek_1764767438054.png",
+    "linkgeluid": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/doekje.webm",
+    "showType": "geluid"
+  }
+]
