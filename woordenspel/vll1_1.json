@@ -1,0 +1,74 @@
+[
+  {
+    "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/pauw.jpg",
+    "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/pauw.webm",
+    "naam": "pauw",
+    "showType": "geluid"
+  },
+  {
+    "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/kip.jpg",
+    "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/kip.webm",
+    "naam": "kip",
+    "showType": "geluid"
+  },
+  {
+    "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/boek.jpg",
+    "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/boek.webm",
+    "naam": "boek",
+    "showType": "geluid"
+  },
+  {
+    "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/poes.jpg",
+    "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/poes.webm",
+    "naam": "poes",
+    "showType": "geluid"
+  },
+  {
+    "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/aap.jpg",
+    "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/aap.webm",
+    "naam": "aap",
+    "showType": "geluid"
+  },
+  {
+    "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/doek.jpg",
+    "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/doek.webm",
+    "naam": "doek",
+    "showType": "geluid"
+  },
+  {
+    "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/pen.jpg",
+    "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/pen.webm",
+    "naam": "pen",
+    "showType": "geluid"
+  },
+  {
+    "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/boom.jpg",
+    "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/boom.webm",
+    "naam": "boom",
+    "showType": "geluid"
+  },
+  {
+    "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/pan.jpg",
+    "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/pan.webm",
+    "naam": "pan",
+    "showType": "geluid"
+  },
+  {
+    "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/pit.jpg",
+    "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/opname_1768078067040.webm",
+    "naam": "pit",
+    "showType": "geluid"
+  },
+  {
+    "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/wip.jpg",
+    "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/wip.webm",
+    "naam": "wip",
+    "showType": "geluid"
+  },
+  {
+    "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/pet.jpg",
+    "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenspel/pet.webm",
+    "naam": "pet",
+    "showType": "geluid"
+  }
+]
