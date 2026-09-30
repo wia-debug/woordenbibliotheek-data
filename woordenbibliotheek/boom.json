@@ -1,0 +1,10 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/boom.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woordenbibliotheek/beer.webm",
+      "naam": "boom"
+    }
+  ]
+}
