@@ -1,0 +1,10 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/hond.png",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/hond.webm",
+      "naam": "hond"
+    }
+  ]
+}
