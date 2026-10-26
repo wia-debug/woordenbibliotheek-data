@@ -1,0 +1,11 @@
+{
+  "versie": 1,
+  "items": [
+    {
+      "afbeelding": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/hondtest.webp",
+      "audio": "https://raw.githubusercontent.com/wia-debug/woordenbibliotheek-data/main/woorden/hondtest.webm",
+      "naam": "hondtest"
+    }
+  ],
+  "wachttijd": 5
+}
